@@ -57,7 +57,7 @@ El objetivo es brindar a los usuarios una herramienta preventiva que les permita
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/screenshots2.png" alt="Login Screenshot" width="400"/>
+  <img src="docs/screenshots/screenshot2.png" alt="Login Screenshot" width="400"/>
 </p>
 
 <p align="center">
