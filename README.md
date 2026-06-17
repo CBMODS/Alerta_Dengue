@@ -57,17 +57,17 @@ El objetivo es brindar a los usuarios una herramienta preventiva que les permita
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/screenshot2.png" alt="Login Screenshot" width="400"/>
+  <img src="docs/screenshots/screenshot2.png" alt="Login Screenshot" width="600"/>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/screenshot3.png" alt="Login Screenshot" width="400"/>
+  <img src="docs/screenshots/screenshot3.png" alt="Login Screenshot" width="600"/>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/screenshot4.png" alt="Login Screenshot" width="400"/>
+  <img src="docs/screenshots/screenshot4.png" alt="Login Screenshot" width="600"/>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/screenshot5.png" alt="Login Screenshot" width="400"/>
+  <img src="docs/screenshots/screenshot5.png" alt="Login Screenshot" width="600"/>
 </p>
