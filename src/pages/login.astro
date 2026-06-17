@@ -1,0 +1,62 @@
+---
+import '../styles/global.css'
+---
+
+<html lang="es">
+
+  <head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" href={`${import.meta.env.BASE_URL}logo.png`} />
+		<meta name="description" content="La prevención comienza con la detección." />
+		<title>Login</title>
+	</head>
+
+  <body>
+
+    <section class="w-full min-h-screen bg-slate-900 flex items-center justify-center px-6 py-16">
+      
+      <div class="bg-slate-800 p-8 rounded-xl shadow-lg w-full max-w-md space-y-6">
+        
+        <h2 class="text-2xl md:text-3xl font-bold text-white text-center">
+          Iniciar sesión
+        </h2>
+
+        <p class="text-slate-400 text-center text-sm">
+          Accede a tu cuenta para continuar
+        </p>
+
+        <form class="space-y-4">
+          
+          <div>
+            <label class="block text-slate-300 text-sm mb-1">Correo electrónico</label>
+            <input type="email"
+              class="w-full px-4 py-2 rounded-lg bg-slate-700 text-white focus:ring-2 focus:ring-red-600"
+              placeholder="ejemplo@correo.com" />
+          </div>
+
+          <div>
+            <label class="block text-slate-300 text-sm mb-1">Contraseña</label>
+            <input type="password"
+              class="w-full px-4 py-2 rounded-lg bg-slate-700 text-white focus:ring-2 focus:ring-red-600"
+              placeholder="********" />
+          </div>
+
+          <button type="submit"
+            class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold px-4 py-2 rounded-lg transition">
+            Entrar
+          </button>
+
+        </form>
+
+        <div class="text-center text-sm text-slate-400 space-y-2">
+          <a href="/registro" class="hover:text-red-500">¿No tienes cuenta? Regístrate</a><br />
+          <a href="/recuperar" class="hover:text-red-500">¿Olvidaste tu contraseña?</a>
+        </div>
+
+      </div>
+
+    </section>
+
+  </body>
+</html>
