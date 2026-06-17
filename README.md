@@ -49,3 +49,25 @@ El objetivo es brindar a los usuarios una herramienta preventiva que les permita
 3. Ejecutar Servidor de Desarrollo
    ```bash
    pnpm dev
+
+## 📸 Capturas de pantalla
+
+<p align="center">
+  <img src="docs/screenshots/screenshot1.png" alt="Home Screenshot" width="600"/>
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/screenshots2.png" alt="Login Screenshot" width="400"/>
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/screenshot3.png" alt="Login Screenshot" width="400"/>
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/screenshot4.png" alt="Login Screenshot" width="400"/>
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/screenshot5.png" alt="Login Screenshot" width="400"/>
+</p>
