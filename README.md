@@ -1,9 +1,12 @@
 # 🦟 Alerta Dengue
 
-![Astro Logo](https://raw.githubusercontent.com/withastro/astro/main/assets/astro-logo-dark.svg#gh-dark-mode-only)
-![TailwindCSS Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)
-![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
-![pnpm Logo](https://pnpm.io/img/pnpm-no-name-with-frame.svg)
+<p align="center">
+  <img src="https://astro.build/assets/press/astro-logo-dark.svg" alt="Astro Logo" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS Logo" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="80"/>
+  <img src="https://pnpm.io/img/pnpm-no-name-with-frame.svg" alt="pnpm Logo" width="80"/>
+</p>
+
 
 ---
 
